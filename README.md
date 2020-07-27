@@ -13,23 +13,23 @@
 - Webアプリケーションの開発
 	- JavaScript, Ruby あわせて7ヶ月以上
 
-** 業務外活動 **
+**業務外活動**
 ** ブログにおける情報発信 **
 日米におけるUXデザインの違い、プログラミングに関する自主制作漫画などを通じて、海外の読者を中心に情報発信を行なっている。
 - 「Why are Japan’s Websites so Cluttered?」
   - https://medium.com/@wachka06/why-are-japans-websites-so-cluttered-59dbc8c99cd3
 - 「I miss ya, RUBY!」
-  - https://medium.com/@wachka06/i-miss-ya-ruby-84bc1d2cbdcb
+  - https://medium.com/@wachka06/i-miss-ya-ruby-84bc1d2cbdcb  
 Medium: https://medium.com/@wachka06
 
 ## スキル
-** Ruby **
+**Ruby**
 - Ruby on Railsを用いたバックエンド開発実務経験あり。
-** JavaScript **
+**JavaScript**
 - フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。
 
 # 職務経歴
-## 米アクセンチュア（2020/03 - 2020/06）
+**米アクセンチュア（2020/03 - 2020/06）
 - ペットマッチングアプリケーションの企画 / 開発（Web開発担当）
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）
 ○ 全体20名、要員数3名
