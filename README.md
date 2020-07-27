@@ -32,7 +32,7 @@ Medium: https://medium.com/@wachka06
 - フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。 
 
 # 職務経歴
-**米 アクセンチュア（2020/03 - 2020/06）**
+**米国 アクセンチュア（2020/03 - 2020/06）**
 - ペットマッチングアプリケーションの企画 / 開発（Web開発担当）  
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
 ○ 全体20名、要員数3名  
@@ -44,7 +44,7 @@ Medium: https://medium.com/@wachka06
 
 # Flatiron Schoolでのプロジェクト  
 
-# 営業アシスタントとしての職務経歴
+## 営業アシスタントとしての職務経歴
 **台湾 Fon-Star International Technology（2015/01 - 2016/01）**
 - 取り扱い商材
   - プラスチック製品（バーコードリーダー、防犯カメラ）、金型
