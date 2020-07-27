@@ -31,6 +31,37 @@ Medium: https://medium.com/@wachka06
 **JavaScript**
 - フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。 
 
+## プロジェクト
+米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトに参加（2018/07 - 11）
+
+**Rameniac**
+フルスタックでの企画、開発を担当。  
+React.js / Ruby on Rails / PostgreSQL　　
+|  | Rameniac |
+----|---- 
+| Demo | https://youtu.be/qnuky0bKun8 |
+| GitHub(フロントエンド) | https://github.com/wachka06/ramenhead-client |
+| GitHub(バックエンド) | https://github.com/wachka06/ramenhead-server |　　
+
+**Mushroom Hunting**
+主にフロントエンドを担当。  
+React.js / Ruby on Rails / PostgreSQL　　
+|  | Mushroom Hunting |
+----|---- 
+| Demo | https://youtu.be/Y2LbEB6oWAI |
+| GitHub(フロントエンド) | https://github.com/wachka06/mushroomhunting-client |
+| GitHub(バックエンド) | https://github.com/wachka06/mushroomhunting-server |　　
+
+**MushroomPedia**
+主にフロントエンドを担当。  
+React.js / Ruby on Rails / PostgreSQL　　
+|  | MushroomPedia |
+----|---- 
+| Demo | https://youtu.be/lhPiLwi-g0E |
+| GitHub(フロントエンド) | https://github.com/wachka06/mushroompedia-client |
+| GitHub(バックエンド) | https://github.com/wachka06/mushroompedia-server |　　
+
+
 # 職務経歴
 **米国 アクセンチュア（2020/03 - 2020/06）**
 - ペットマッチングアプリケーションの企画 / 開発（Web開発担当）  
@@ -41,8 +72,6 @@ Medium: https://medium.com/@wachka06
 （Ruby on Rails / GraphQL / React, Redux / PostgreSQL / AmazonSQS /  RSpec / Jest）  
 ○ クライアントとヒアリングを行い、アプリの改修、テスト  
 ○ 全体20名、要員数4名  
-
-# Flatiron Schoolでのプロジェクト  
 
 ## 営業アシスタントとしての職務経歴
 **台湾 Fon-Star International Technology（2015/01 - 2016/01）**
