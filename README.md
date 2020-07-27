@@ -1,8 +1,6 @@
 # 職務経歴書
 ###### Mon, July 27, 2020
 
-|  |  |
-----|---- 
 | 氏名 | 和田 奈月(WADA, Natsuki) |
 | Web | http://www.natsukiwada.com/ |
 | GitHub | https://github.com/wachka06 |
