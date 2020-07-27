@@ -30,13 +30,13 @@ Medium: https://medium.com/@wachka06
 
 # 職務経歴
 **米アクセンチュア（2020/03 - 2020/06）**
-- ペットマッチングアプリケーションの企画 / 開発（Web開発担当）
-（Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）
-○ 全体20名、要員数3名
-・大学向けWebアプリケーションの運営
-（Ruby on Rails / GraphQL / React, Redux / PostgreSQL / AmazonSQS /  RSpec / Jest）
-○ クライアントとヒアリングを行い、アプリの改修、テスト
-○ 全体20名、要員数4名
+- ペットマッチングアプリケーションの企画 / 開発（Web開発担当）  
+（Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
+○ 全体20名、要員数3名  
+・大学向けWebアプリケーションの運営  
+（Ruby on Rails / GraphQL / React, Redux / PostgreSQL / AmazonSQS /  RSpec / Jest）  
+○ クライアントとヒアリングを行い、アプリの改修、テスト  
+○ 全体20名、要員数4名  
 
 # Flatiron Schoolでのプロジェクト  
 
