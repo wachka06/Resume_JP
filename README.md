@@ -14,6 +14,7 @@
 	- JavaScript, Ruby あわせて7ヶ月以上
 
 **業務外活動**
+
 **ブログにおける情報発信**  
 日米におけるUXデザインの違い、プログラミングに関する自主制作漫画などを通じて、海外の読者を中心に情報発信を行なっている。
 - 「Why are Japan’s Websites so Cluttered?」
@@ -35,7 +36,8 @@ Medium: https://medium.com/@wachka06
 - ペットマッチングアプリケーションの企画 / 開発（Web開発担当）  
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
 ○ 全体20名、要員数3名  
-・大学向けWebアプリケーションの運営  
+
+大学向けWebアプリケーションの運営  
 （Ruby on Rails / GraphQL / React, Redux / PostgreSQL / AmazonSQS /  RSpec / Jest）  
 ○ クライアントとヒアリングを行い、アプリの改修、テスト  
 ○ 全体20名、要員数4名  
