@@ -36,7 +36,7 @@ Medium: https://medium.com/@wachka06
 ## プロジェクト
 米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトに参加（2018/07 - 11）
 
-**Rameniac**  
+- **Rameniac**  
 フルスタックでの企画、開発を担当。  
 React.js / Ruby on Rails / PostgreSQL　　
 |  | Rameniac |
