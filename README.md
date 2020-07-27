@@ -42,7 +42,7 @@ Medium: https://medium.com/@wachka06
 # Flatiron Schoolでのプロジェクト  
 
 # 営業アシスタントとしての職務経歴
-## 台湾Fon-Star International Technology（2015/01 - 2016/01）
+**台湾Fon-Star International Technology（2015/01 - 2016/01）**
 - 取り扱い商材
   - プラスチック製品（バーコードリーダー、防犯カメラ）、金型
 - 法人営業
@@ -51,7 +51,7 @@ Medium: https://medium.com/@wachka06
 - 納品手配、納品管理
 - 中日英通訳業務（会議、メール）
 
-## 横河酒造株式会社（2009/04 - 2012/08）
+**横河酒造株式会社（2009/04 - 2012/08）**
 - 取り扱い商材
   - 清酒
 - 担当顧客概要
