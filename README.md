@@ -24,12 +24,14 @@
   
 Medium: https://medium.com/@wachka06
 
+
 ## スキル
 **Ruby**
 - Ruby on Railsを用いたバックエンド開発実務経験あり。  
 
 **JavaScript**
 - フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。 
+
 
 ## プロジェクト
 米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトに参加（2018/07 - 11）
