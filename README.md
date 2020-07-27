@@ -13,7 +13,7 @@
 - Webアプリケーションの開発
 	- JavaScript, Ruby あわせて7ヶ月以上
 
-# 業務外活動
+## 業務外活動
 ## ブログにおける情報発信
 日米におけるUXデザインの違い、プログラミングに関する自主制作漫画などを通じて、海外の読者を中心に情報発信を行なっている。
 - 「Why are Japan’s Websites so Cluttered?」
@@ -61,4 +61,3 @@ Medium: https://medium.com/@wachka06
 - 集客業務（広告手配）
 - 新製品のラベルの作成（Adobe Photoshop, Illustrator）
 - 企画立案、提案、プレゼンテーション
-  
