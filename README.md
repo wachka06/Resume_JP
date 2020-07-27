@@ -20,6 +20,7 @@
   - https://medium.com/@wachka06/why-are-japans-websites-so-cluttered-59dbc8c99cd3
 - 「I miss ya, RUBY!」
   - https://medium.com/@wachka06/i-miss-ya-ruby-84bc1d2cbdcb  
+  
 Medium: https://medium.com/@wachka06
 
 ## スキル
