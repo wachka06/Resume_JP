@@ -1,6 +1,8 @@
 # 職務経歴書
 ###### Mon, July 27, 2020
 
+|  |  |
+----|---- 
 | 氏名 | 和田 奈月(WADA, Natsuki) |
 | Web | http://www.natsukiwada.com/ |
 | GitHub | https://github.com/wachka06 |
@@ -59,4 +61,4 @@ Medium: https://medium.com/@wachka06
 - 集客業務（広告手配）
 - 新製品のラベルの作成（Adobe Photoshop, Illustrator）
 - 企画立案、提案、プレゼンテーション
- 
+  
