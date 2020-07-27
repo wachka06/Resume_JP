@@ -37,7 +37,7 @@ Medium: https://medium.com/@wachka06
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
 ○ 全体20名、要員数3名  
 
-大学向けWebアプリケーションの運営  
+- 大学向けWebアプリケーションの運営  
 （Ruby on Rails / GraphQL / React, Redux / PostgreSQL / AmazonSQS /  RSpec / Jest）  
 ○ クライアントとヒアリングを行い、アプリの改修、テスト  
 ○ 全体20名、要員数4名  
