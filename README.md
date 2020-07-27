@@ -14,7 +14,7 @@
 	- JavaScript, Ruby あわせて7ヶ月以上
 
 **業務外活動**
-**ブログにおける情報発信**
+**ブログにおける情報発信**  
 日米におけるUXデザインの違い、プログラミングに関する自主制作漫画などを通じて、海外の読者を中心に情報発信を行なっている。
 - 「Why are Japan’s Websites so Cluttered?」
   - https://medium.com/@wachka06/why-are-japans-websites-so-cluttered-59dbc8c99cd3
