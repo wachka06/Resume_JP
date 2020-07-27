@@ -7,14 +7,14 @@
 | Web | http://www.natsukiwada.com/ |
 | GitHub | https://github.com/wachka06 |
 
-# 職務経歴（概要）
+## 職務経歴（概要）
 
-## ソフトウェア開発
+** ソフトウェア開発 **
 - Webアプリケーションの開発
 	- JavaScript, Ruby あわせて7ヶ月以上
 
-## 業務外活動
-## ブログにおける情報発信
+** 業務外活動 **
+** ブログにおける情報発信 **
 日米におけるUXデザインの違い、プログラミングに関する自主制作漫画などを通じて、海外の読者を中心に情報発信を行なっている。
 - 「Why are Japan’s Websites so Cluttered?」
   - https://medium.com/@wachka06/why-are-japans-websites-so-cluttered-59dbc8c99cd3
@@ -22,10 +22,10 @@
   - https://medium.com/@wachka06/i-miss-ya-ruby-84bc1d2cbdcb
 Medium: https://medium.com/@wachka06
 
-# プログラミングスキル
-## Ruby
+## スキル
+** Ruby **
 - Ruby on Railsを用いたバックエンド開発実務経験あり。
-## JavaScript
+** JavaScript **
 - フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。
 
 # 職務経歴
