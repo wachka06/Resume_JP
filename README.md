@@ -6,6 +6,7 @@
 | 氏名 | 和田 奈月(WADA, Natsuki) |
 | Web | http://www.natsukiwada.com/ |
 | GitHub | https://github.com/wachka06 |
+| CodeWars | 5kyu |
 
 ## 職務経歴（概要）
 
