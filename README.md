@@ -44,7 +44,7 @@ Medium: https://medium.com/@wachka06
 米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う（2018/07 - 11）
 
 **Rameniac**  
-フルスタックでの企画、開発を担当。  
+- フルスタックでの企画、開発を担当。  
 React.js / Ruby on Rails / PostgreSQL　　
 |  | Rameniac |
 ----|---- 
@@ -53,7 +53,7 @@ React.js / Ruby on Rails / PostgreSQL　　
 | GitHub(バックエンド) | https://github.com/wachka06/ramenhead-server |　　
 
 **Mushroom Hunting**  
-主にフロントエンド開発を担当。Adobe Photoshop/Illustratorを使ってキャラクターのデザインも担当。  
+- 主にフロントエンド開発を担当。Adobe Photoshop/Illustratorを使ってキャラクターのデザインも担当。  
 React.js / Ruby on Rails / PostgreSQL　　
 |  | Mushroom Hunting |
 ----|---- 
@@ -62,7 +62,7 @@ React.js / Ruby on Rails / PostgreSQL　　
 | GitHub(バックエンド) | https://github.com/wachka06/mushroomhunting-server |　　
 
 **MushroomPedia**  
-主にフロントエンド開発を担当。  
+- 主にフロントエンド開発を担当。  
 React.js / Ruby on Rails / PostgreSQL　　
 |  | MushroomPedia |
 ----|---- 
