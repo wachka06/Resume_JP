@@ -31,7 +31,8 @@ Medium: https://medium.com/@wachka06
 - Ruby on Railsを用いたバックエンド開発実務経験あり。  
 
 **JavaScript**
-- フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。 
+- フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。  
+　フレームワークにBootsrap、Semantic UIを用いてのプロジェクト開発経験あり。
 
 
 ## プロジェクト
