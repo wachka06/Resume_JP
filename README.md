@@ -44,8 +44,9 @@ Medium: https://medium.com/@wachka06
 米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う（2018/07 - 11）
 
 **Rameniac**  
-フルスタックでの企画、開発を担当。  
-React.js / Ruby on Rails / PostgreSQL　　
+-フルスタックでの企画、開発を担当。Google Maps API、Yelp APIを利用。  
+React.js / Ruby on Rails / PostgreSQL　
+
 |  | Rameniac |
 ----|---- 
 | Demo | https://youtu.be/qnuky0bKun8 |
@@ -75,6 +76,11 @@ React.js / Ruby on Rails / PostgreSQL　　
 **米国 アクセンチュア（2020/03 - 2020/06）**
 - ペットマッチングアプリケーションの企画 / 開発（フルスタックでのWeb開発担当）  
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
+○ 基本設計・詳細設計
+○ データベース設計
+○ API設計・開発
+○ 実装
+○ テスト
 ○ 全体20名、要員数3名  
 
 - 大学向けWebアプリケーションの運営  
