@@ -46,7 +46,7 @@ React.js / Ruby on Rails / PostgreSQL　　
 | GitHub(バックエンド) | https://github.com/wachka06/ramenhead-server |　　
 
 **Mushroom Hunting**  
-主にフロントエンドを担当。  
+主にフロントエンド開発を担当。  
 React.js / Ruby on Rails / PostgreSQL　　
 |  | Mushroom Hunting |
 ----|---- 
@@ -55,7 +55,7 @@ React.js / Ruby on Rails / PostgreSQL　　
 | GitHub(バックエンド) | https://github.com/wachka06/mushroomhunting-server |　　
 
 **MushroomPedia**  
-主にフロントエンドを担当。  
+主にフロントエンド開発を担当。  
 React.js / Ruby on Rails / PostgreSQL　　
 |  | MushroomPedia |
 ----|---- 
