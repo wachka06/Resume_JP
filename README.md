@@ -76,11 +76,11 @@ React.js / Ruby on Rails / PostgreSQL　　
 **米国 アクセンチュア（2020/03 - 2020/06）**
 - ペットマッチングアプリケーションの企画 / 開発（フルスタックでのWeb開発担当）  
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
-○ 基本設計・詳細設計
-○ データベース設計
-○ API設計・開発
-○ 実装
-○ テスト
+○ 基本設計・詳細設計  
+○ データベース設計  
+○ API設計・開発  
+○ 実装  
+○ テスト  
 ○ 全体20名、要員数3名  
 
 - 大学向けWebアプリケーションの運営  
