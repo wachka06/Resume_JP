@@ -44,7 +44,7 @@ Medium: https://medium.com/@wachka06
 米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う（2018/07 - 11）
 
 **Rameniac**  
--フルスタックでの企画、開発を担当。Google Maps API、Yelp APIを利用。  
+- フルスタックでの企画、開発を担当。Google Maps API、Yelp APIを利用。  
 React.js / Ruby on Rails / PostgreSQL　
 
 |  | Rameniac |
