@@ -37,8 +37,10 @@ Medium: https://medium.com/@wachka06
 **PHP**
 - 趣味プロダクトで利用経験あり。
 
+
 ## その他スキル
 - Adobe Photoshop, Illustrator, Adobe After Effects  
+
 
 ## プロジェクト
 米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う（2018/07 - 11）
@@ -54,8 +56,8 @@ React.js / Ruby on Rails / PostgreSQL　
 | GitHub(バックエンド) | https://github.com/wachka06/ramenhead-server |　　
 
 **Mushroom Hunting**  
-主にフロントエンド開発を担当。Adobe Photoshop/Illustratorを使ってキャラクターのデザインも担当。  
-React.js / Ruby on Rails / PostgreSQL　　
+- 主にフロントエンド開発を担当。Adobe Photoshop/Illustratorを使ってキャラクターのデザインも担当。  
+React.js / Ruby on Rails / PostgreSQL  
 |  | Mushroom Hunting |
 ----|---- 
 | Demo | https://youtu.be/Y2LbEB6oWAI |
@@ -63,8 +65,8 @@ React.js / Ruby on Rails / PostgreSQL　　
 | GitHub(バックエンド) | https://github.com/wachka06/mushroomhunting-server |　　
 
 **MushroomPedia**  
-主にフロントエンド開発を担当。  
-React.js / Ruby on Rails / PostgreSQL　　
+- 主にフロントエンド開発を担当。  
+React.js / Ruby on Rails / PostgreSQL  
 |  | MushroomPedia |
 ----|---- 
 | Demo | https://youtu.be/lhPiLwi-g0E |
