@@ -32,11 +32,16 @@ Medium: https://medium.com/@wachka06
 
 **JavaScript**
 - フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。  
-　フレームワークにBootsrap、Semantic UIを用いてのプロジェクト開発経験あり。
+　フレームワークにBootsrap、Semantic UIを用いてのプロジェクト開発経験あり。  
+ 
+**PHP**
+- 趣味プロダクトで利用経験あり。
 
+## その他スキル
+- Adobe Photoshop, Illustrator, Adobe After Effects  
 
 ## プロジェクト
-米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトに参加（2018/07 - 11）
+米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う（2018/07 - 11）
 
 **Rameniac**  
 フルスタックでの企画、開発を担当。  
@@ -48,7 +53,7 @@ React.js / Ruby on Rails / PostgreSQL　　
 | GitHub(バックエンド) | https://github.com/wachka06/ramenhead-server |　　
 
 **Mushroom Hunting**  
-主にフロントエンド開発を担当。  
+主にフロントエンド開発を担当。Adobe Photoshop/Illustratorを使ってキャラクターのデザインも担当。  
 React.js / Ruby on Rails / PostgreSQL　　
 |  | Mushroom Hunting |
 ----|---- 
@@ -68,7 +73,7 @@ React.js / Ruby on Rails / PostgreSQL　　
 
 # 職務経歴
 **米国 アクセンチュア（2020/03 - 2020/06）**
-- ペットマッチングアプリケーションの企画 / 開発（Web開発担当）  
+- ペットマッチングアプリケーションの企画 / 開発（フルスタックでのWeb開発担当）  
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
 ○ 全体20名、要員数3名  
 
