@@ -78,7 +78,8 @@ React.js / Ruby on Rails / PostgreSQL
 
 
 # 職務経歴
-**米国 アクセンチュア（2020/03 - 2020/06）**
+**米国 アクセンチュア（2020/03 - 2020/06）**  
+ソフトウェアエンジニア(Software Engineer)  
 - ペットマッチングアプリケーションの企画 / 開発（フルスタックでのWeb開発担当）  
 （Node.js / GraphQL / React (Hooks, Router) / Sequelize / PostgreSQL / Jest）  
 ○ 基本設計・詳細設計  
@@ -94,7 +95,8 @@ React.js / Ruby on Rails / PostgreSQL
 ○ 全体20名、要員数4名  
 
 ## 営業アシスタントとしての職務経歴
-**台湾 Fon-Star International Technology（2015/01 - 2016/01）**
+**台湾 Fon-Star International Technology（2015/01 - 2016/01）**  
+営業アシスタント  
 - 取り扱い商材
   - プラスチック製品（バーコードリーダー、防犯カメラ）、金型
 - 法人営業
@@ -103,7 +105,8 @@ React.js / Ruby on Rails / PostgreSQL
 - 納品手配、納品管理
 - 中日英通訳業務（会議、メール）
 
-**横河酒造株式会社（2009/04 - 2012/08）**
+**横河酒造株式会社（2009/04 - 2012/08）**  
+営業アシスタント  
 - 取り扱い商材
   - 清酒
 - 担当顧客概要
