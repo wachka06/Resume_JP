@@ -49,6 +49,8 @@ Medium: https://medium.com/@wachka06
 **Rameniac**  
 - フルスタックでの企画、開発を担当。Google Maps API、Yelp APIを利用。  
 React.js / Ruby on Rails / PostgreSQL　
+○ 工数: 3週間  
+○ 工夫した点: フレームワークにSemantic UIを使い、Google Maps APIを活用する事で、よりリッチでユーザーに視覚的に配慮したデザインに仕上げた。  
 
 |  | Rameniac |
 ----|---- 
@@ -59,6 +61,8 @@ React.js / Ruby on Rails / PostgreSQL　
 **Mushroom Hunting**  
 - 主にフロントエンド開発を担当。Adobe Photoshop/Illustratorを使ってキャラクターのデザインも担当。  
 React.js / Ruby on Rails / PostgreSQL  
+○ 工数: 3週間  
+○ 工夫した点: @keyframesを用い、アイコンにより滑らかな動きを持たせるようCSSアニメーションを活用した。  
 
 |  | Mushroom Hunting |
 ----|---- 
@@ -69,6 +73,7 @@ React.js / Ruby on Rails / PostgreSQL
 **MushroomPedia**  
 - 主にフロントエンド開発を担当。  
 React.js / Ruby on Rails / PostgreSQL  
+○ 工数: 3週間  
 
 |  | MushroomPedia |
 ----|---- 
@@ -88,11 +93,14 @@ React.js / Ruby on Rails / PostgreSQL
 ○ 実装  
 ○ テスト  
 ○ 全体20名、要員数3名  
+○ 工数: 7週間  
+○ 工夫した点: GraphQL/Apolloを利用する事で、よりシンプルなAPI設計を実現。またReact Hooksを使って、より可読性の高いコードを心掛けた。  
 
 - 大学向けスケジューリングWebアプリケーションの運営  
 （Ruby on Rails / GraphQL / React, Redux / PostgreSQL / AmazonSQS /  RSpec / Jest）  
 ○ クライアントとヒアリングを行い、アプリの改修、テスト  
 ○ 全体20名、要員数4名  
+○ 工数: 5週間  
 
 ## 営業アシスタントとしての職務経歴
 **台湾 Fon-Star International Technology（2015/01 - 2016/01）**  
