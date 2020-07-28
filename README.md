@@ -74,6 +74,7 @@ React.js / Ruby on Rails / PostgreSQL
 - 主にフロントエンド開発を担当。  
 React.js / Ruby on Rails / PostgreSQL  
 ○ 工数: 3週間  
+○ 工夫した点: シンプルかつユーザーに配慮したUIデザイン。  
 
 |  | MushroomPedia |
 ----|---- 
@@ -101,6 +102,7 @@ React.js / Ruby on Rails / PostgreSQL
 ○ クライアントとヒアリングを行い、アプリの改修、テスト  
 ○ 全体20名、要員数4名  
 ○ 工数: 5週間  
+○ 工夫した点: コードの可読性と再利用性の向上。  
 
 ## 営業アシスタントとしての職務経歴
 **台湾 Fon-Star International Technology（2015/01 - 2016/01）**  
