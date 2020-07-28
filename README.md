@@ -58,6 +58,7 @@ React.js / Ruby on Rails / PostgreSQL　
 **Mushroom Hunting**  
 - 主にフロントエンド開発を担当。Adobe Photoshop/Illustratorを使ってキャラクターのデザインも担当。  
 React.js / Ruby on Rails / PostgreSQL  
+
 |  | Mushroom Hunting |
 ----|---- 
 | Demo | https://youtu.be/Y2LbEB6oWAI |
@@ -67,6 +68,7 @@ React.js / Ruby on Rails / PostgreSQL
 **MushroomPedia**  
 - 主にフロントエンド開発を担当。  
 React.js / Ruby on Rails / PostgreSQL  
+
 |  | MushroomPedia |
 ----|---- 
 | Demo | https://youtu.be/lhPiLwi-g0E |
