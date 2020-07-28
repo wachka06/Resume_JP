@@ -48,7 +48,7 @@ Medium: https://medium.com/@wachka06
 
 **Rameniac**  
 - フルスタックでの企画、開発を担当。Google Maps API、Yelp APIを利用。  
-React.js / Ruby on Rails / PostgreSQL　
+React.js / Ruby on Rails / PostgreSQL  
 ○ 工数: 3週間  
 ○ 工夫した点: フレームワークにSemantic UIを使い、Google Maps APIを活用する事で、よりリッチでユーザーに視覚的に配慮したデザインに仕上げた。  
 
