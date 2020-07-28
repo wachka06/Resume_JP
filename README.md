@@ -32,7 +32,7 @@ Medium: https://medium.com/@wachka06
 
 **JavaScript**
 - フロントエンド開発のためReact.js、またバックエンド開発のためNode.jsをを利用した開発実績がある。jQueryは趣味プロダクトで利用。  
-　フレームワークにBootsrap、Semantic UIを用いてのプロジェクト開発経験あり。  
+フレームワークにBootsrap、Semantic UIを用いてのプロジェクト開発経験あり。  
  
 **PHP**
 - 趣味プロダクトで利用経験あり。
@@ -43,7 +43,8 @@ Medium: https://medium.com/@wachka06
 
 
 ## プロジェクト
-米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う（2018/07 - 11）
+米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う  
+（2018/07 - 11）
 
 **Rameniac**  
 - フルスタックでの企画、開発を担当。Google Maps API、Yelp APIを利用。  
