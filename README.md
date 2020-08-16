@@ -43,7 +43,7 @@ Medium: https://medium.com/@wachka06
 
 
 ## プロジェクト
-米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWeb開発を学び、在学中に５つのプロジェクトの企画・開発を担う  
+米国プログラミングスクール・Flatiron SchoolにてフルスタックでのWebアプリケーション開発を学び、在学中に５つのプロジェクトの企画・開発を担う  
 （2018/07 - 2018/11）
 
 **Rameniac**  
@@ -103,6 +103,13 @@ React.js / Ruby on Rails / PostgreSQL
 ○ 全体20名、要員数4名  
 ○ 工数: 5週間  
 ○ 工夫した点: コードの可読性と再利用性の向上。  
+
+**個人事業主として活動（2019/01 - 2020/01）**  
+フロントエンドエンジニア・Webデザイナー  
+- Webページ制作（新規・リニューアル）  
+（JavaScript(React) / AWS / HTML5 / CSS3 / Adobe Photoshop / Adobe Illustrator）  
+○ デザイン企画・提案から制作、納品までを担当  
+○ クライアントとのヒアリングを徹底的に行い、クライアントの理想に近づけるよう心掛けた。  
 
 ## 営業アシスタントとしての職務経歴
 **台湾 Fon-Star International Technology（2015/01 - 2016/01）**  
